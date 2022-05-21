@@ -359,7 +359,7 @@ let concatenadas = frase1[5] +' ' + frase1[6] +' '+ frase1[4]+' ' + frase1[1] +'
 console.log(concatenadas)
 
 
-
+//pruebas para examen 
 let numeroString1 = "10";
 let numeroString2 = "20";
 let numeroString3 = "30";
